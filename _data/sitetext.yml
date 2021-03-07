@@ -89,22 +89,22 @@ team:
         role: "Hatch"
         ≈
         social:
-          - url: https://twitter.com
+          - url: https://github.com/heidi-ye
             icon: fab fa-github
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/heidiye/
             icon: fab fa-linkedin-in
       - image: assets/img/team/3.jpeg
       - name: "Rachel Wong"
         role: "Ratch"
         image: assets/img/team/2.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://github.com/rachelywong
             icon: fab fa-github
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/rachelywong/
             icon: fab fa-linkedin-in
           
 contact:
