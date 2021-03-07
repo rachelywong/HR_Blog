@@ -7,7 +7,7 @@ header:
 content:
     title: "Our Content"
     text: "Rose are red, violets are blue, choose the right section, just for you."
-    section: services
+    section: content
     list:
       - title: "Blog"
         desc: "3 minute reads for those on the go."
@@ -22,7 +22,7 @@ content:
 blog:
     title: "Blog"
     text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
-    section: portfolio
+    section: blog
     
 
 timeline:
