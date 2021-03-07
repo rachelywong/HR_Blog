@@ -81,7 +81,7 @@ clients:
     
 team:
     title: "THE TEAM"
-    text: "The two halves that make up Hatch and Ratch."
+    text: "The two slices that make up the Hatch and Ratch sandwich."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
