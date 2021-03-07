@@ -116,10 +116,10 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-contact:
+test:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
-    section: contact
+    section: test
     
 footer:
     legal: "Privacy Policy"
