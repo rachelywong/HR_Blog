@@ -108,10 +108,10 @@ team:
           - url: https://www.linkedin.com/in/rachelywong/
             icon: fab fa-linkedin-in
           
-contact:
+test:
     title: "Contact Us"
     text: "Please leave a message with the moon and stars, or reach us by phone/email."
-    section: contact
+    section: test
     
 footer:
     legal: "Privacy Policy"
