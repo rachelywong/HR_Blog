@@ -2,27 +2,28 @@ header:
     title: Welcome!
     text: Expert advice on everyday life and more.
     button: More
-    buttonlink: "#{content}" # "#{section}" or "URL/page link"
+    buttonlink: "#services" # "#{section}" or "URL/page link"
 
-content:
+
+services:
     title: "Our Content"
     text: "Rose are red, violets are blue, choose the right section, just for you."
-    section: content
+    section: services
     list:
       - title: "Blog"
         desc: "3 minute reads for those on the go."
         icon: fas fa-newspaper #find more at https://fontawesome.com/icons
       - title: "Book"
         desc: "A deeper dive on new found knowledge."
-        icon: far fa-book-alt
+        icon: fas fa-book-open
       - title: "Podcast"
         desc: "A fireside chat from your pals, Hatch & Ratch."
         icon: fas fa-microphone
 
-blog:
+portfolio:
     title: "Blog"
     text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
-    section: blog
+    section: portfolio
     
 
 timeline:

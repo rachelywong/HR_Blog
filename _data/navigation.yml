@@ -1,16 +1,16 @@
 nav:
-  - title: "Our Content"
-    section: content
+  - title: "Content"
+    section: services
 
   - title: "Blog"
-    section: blog
-    
+    section: portfolio
+
   - title: "About"
     section: timeline
 
   - title: "Team"
     section: team
-
+    
   - title: "Contact"
     section: contact
 
