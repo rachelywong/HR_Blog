@@ -1,8 +1,8 @@
 nav:
-  - title: "Services"
+  - title: "Content"
     section: services
 
-  - title: "Portfolio"
+  - title: "Blog"
     section: portfolio
 
   - title: "About"
