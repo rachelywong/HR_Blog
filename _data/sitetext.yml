@@ -1,23 +1,23 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to H&R Blog!
+    text: Expert advice on everyday life and more.
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Our Content"
+    text: "Rose are red, violets are blue, choose the right section, just for you."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Blog"
+        desc: "3 minute reads for those on the go."
+        icon: fas fa-newspaper #find more at https://fontawesome.com/icons
+      - title: "Book"
+        desc: "A deeper dive on new found knowledge."
+        icon: fal fa-book  
+      - title: "Podcast"
+        desc: "A fireside chat from your pals, Hatch & Ratch."
+        icon: fas fa-microphone
 
 portfolio:
     title: "Portfolio"
