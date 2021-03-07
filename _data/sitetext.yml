@@ -87,7 +87,6 @@ team:
     people:
       - name: "Heidi Ye"
         role: "Hatch"
-        ≈
         social:
           - url: https://github.com/heidi-ye
             icon: fab fa-github
