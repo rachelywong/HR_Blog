@@ -2,12 +2,12 @@ header:
     title: Welcome!
     text: Expert advice on everyday life and more.
     button: More
-    buttonlink: "#{content}" # "#{section}" or "URL/page link"
+    buttonlink: "#content" # "#{section}" or "URL/page link"
 
-content:
+services:
     title: "Our Content"
     text: "Rose are red, violets are blue, choose the right section, just for you."
-    section: content
+    section: services
     list:
       - title: "Blog"
         desc: "3 minute reads for those on the go."
@@ -19,10 +19,10 @@ content:
         desc: "A fireside chat from your pals, Hatch & Ratch."
         icon: fas fa-microphone
 
-blog:
+portfolio:
     title: "Blog"
     text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
-    section: blog
+    section: portfolio
     
 
 timeline:
@@ -56,10 +56,10 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+# about:
+#     title: "About Us"
+#     text: "our story"
+#     section: about
 
 clients:
     section: clients
@@ -116,10 +116,10 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-test:
+contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
-    section: test
+    section: contact
     
 footer:
     legal: "Privacy Policy"
