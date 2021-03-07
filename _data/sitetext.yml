@@ -15,7 +15,7 @@ content:
         icon: fas fa-newspaper #find more at https://fontawesome.com/icons
       - title: "Book"
         desc: "A deeper dive on new found knowledge."
-        icon: far fa-book-alt
+        icon: fas fa-book-open
       - title: "Podcast"
         desc: "A fireside chat from your pals, Hatch & Ratch."
         icon: fas fa-microphone
