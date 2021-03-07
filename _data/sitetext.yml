@@ -30,27 +30,27 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Girl Meets Girl"
+        year: "July 2020"
+        desc: "When the solar system settled into a strategic formation around our Earth, the template of stars we look up to arranged themselves in a manner that would change humankind. It was that night that Hatch and Ratch's stars aligned such that they would find themselves meeting over a virtual happy hour."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Our Humble Beginnings"
+        year: "September 2020"
+        desc: "The conquest of becoming data wizards began. The team at Hatch and Ratch started their studies in the Master of Data Science program at the University of British Columbia."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "A Brand is Born"
+        year: "December 2020"
+        desc: "Hatch and Ratch became official, with the pre-release of The Hatch and Ratch Story: Data Science Fundamentals"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "What now?"
+        year: "Present"
+        desc: "Book, blog, and podcast are underway. Stay tuned!"
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
