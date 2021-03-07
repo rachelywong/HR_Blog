@@ -87,7 +87,7 @@ team:
     people:
       - name: "Heidi Ye"
         role: "Hatch"
-        image: assets/img/team/1.jpeg
+        ≈
         social:
           - url: https://twitter.com
             icon: fab fa-github
@@ -95,12 +95,13 @@ team:
           #  icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - image: assets/img/team/3.jpeg
       - name: "Rachel Wong"
         role: "Ratch"
-        image: assets/img/team/3.jpeg
+        image: assets/img/team/2.jpeg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-github
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
           - url: https://linkedin.com
