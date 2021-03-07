@@ -4,7 +4,7 @@ header:
     button: More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
+content:
     title: "Our Content"
     text: "Rose are red, violets are blue, choose the right section, just for you."
     section: services
@@ -19,7 +19,7 @@ services:
         desc: "A fireside chat from your pals, Hatch & Ratch."
         icon: fas fa-microphone
 
-portfolio:
+blog:
     title: "Blog"
     text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
     section: portfolio
