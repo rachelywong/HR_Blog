@@ -39,19 +39,19 @@ timeline:
       - title: "Our Humble Beginnings"
         year: "September 2020"
         desc: "The conquest of becoming data wizards began. The team at Hatch and Ratch started their studies in the Master of Data Science program at the University of British Columbia."
-        image: assets/img/timeline/2.jpg
+        image: #assets/img/timeline/2.jpg
         alt: 
         align: right
       - title: "A Brand is Born"
         year: "December 2020"
         desc: "Hatch and Ratch became official, with the pre-release of The Hatch and Ratch Story: Data Science Fundamentals"
-        image: assets/img/timeline/3.jpg
+        image: #assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
       - title: "What now?"
         year: "Present"
         desc: "Book, blog, and podcast are underway. Stay tuned!"
-        image: assets/img/timeline/4.jpg
+        image: #assets/img/timeline/4.jpg
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
