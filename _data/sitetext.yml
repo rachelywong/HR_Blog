@@ -87,6 +87,7 @@ team:
     people:
       - name: "Heidi Ye"
         role: "Hatch"
+        image: assets/img/team/1.png
         social:
           - url: https://github.com/heidi-ye
             icon: fab fa-github
@@ -95,9 +96,10 @@ team:
           - url: https://www.linkedin.com/in/heidiye/
             icon: fab fa-linkedin-in
       - name: ""
+        image: assets/img/team/selfie.JPG
       - name: "Rachel Wong"
         role: "Ratch"
-        image: assets/img/team/2.jpeg
+        image: assets/img/team/2.png
         social:
           - url: https://github.com/rachelywong
             icon: fab fa-github
