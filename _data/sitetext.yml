@@ -1,7 +1,7 @@
 header:
     title: Welcome to H&R Blog!
     text: Expert advice on everyday life and more.
-    button: Tell Me More
+    button: More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -14,14 +14,14 @@ services:
         icon: fas fa-newspaper #find more at https://fontawesome.com/icons
       - title: "Book"
         desc: "A deeper dive on new found knowledge."
-        icon: fal fa-book  
+        icon: fal fa-book-open 
       - title: "Podcast"
         desc: "A fireside chat from your pals, Hatch & Ratch."
         icon: fas fa-microphone
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Blog"
+    text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
     section: portfolio
     
 
