@@ -27,7 +27,7 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Welcome to our world. Here at Hatch and Ratch we aim to take you on a ride through the cyberworld. With whimsy and eloquence, we offer only the most factual and interesting bits of information as you come along with us on our journey to becoming data science professionals."
     section: timeline
     events:
       - title: "Girl Meets Girl"
@@ -80,45 +80,37 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "THE TEAM"
+    text: "The two slices that make up the Hatch and Ratch sandwich."
+    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Heidi Ye"
+        role: "Hatch"
+        image: assets/img/team/1.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://github.com/heidi-ye
+            icon: fab fa-github
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/heidiye/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: ""
+        image: assets/img/team/selfie.JPG
+      - name: "Rachel Wong"
+        role: "Ratch"
+        image: assets/img/team/2.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://github.com/rachelywong
+            icon: fab fa-github
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/rachelywong/
             icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Please leave a message with the moon and stars, or reach us by phone/email."
     section: contact
     
 footer:
