@@ -2,7 +2,8 @@ header:
     title: Welcome!
     text: Expert advice on everyday life and more.
     button: More
-    buttonlink: "{content}" # "#{section}" or "URL/page link"
+    buttonlink: "#services" # "#{section}" or "URL/page link"
+
 
 content:
     title: "Our Content"
