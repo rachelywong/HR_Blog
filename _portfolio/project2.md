@@ -24,7 +24,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](../assets/img/portfolio/project2/insertion1.png)
+![insertion1.png](project2/insertion1.png)
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
