@@ -1,12 +1,12 @@
 ---
 title: Sort Your Life Out!
-subtitle: Ratch's Take on Sorting Algorithms
+subtitle: A tutorial on how to be fast! zoom zooooooom
 #image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 #alt: Keep Exploring
 
 caption:
   title: Sort Your Life Out!
-  subtitle: Ratch's Take on Sorting Algorithms
+  subtitle: A tutorial on how to be fast! zoom zooooooom
   thumbnail: https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/thumbnail.png
 ---
 
