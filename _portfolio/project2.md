@@ -7,7 +7,7 @@ subtitle: Ratch's Take on Sorting Algorithms
 caption:
   title: Sort Your Life Out!
   subtitle: Ratch's Take on Sorting Algorithms
-  thumbnail: ../assets/img/portfolio/project2/thumbnail.png
+  thumbnail: https://github.com/rachelywong/HR_Blog/blob/rwblogs/assets/img/portfolio/project2/thumbnail.png
 ---
 
 Recently with COVID-19, I’ve found myself looking for ways to minimize my time spent in close physical contact with other humans. I’ve circled in on the fact that the majority of physical interactions these days occur at grocery stores, and in an attempt to help flatten the curve, I’ve come up with a new technique to accelerate your time at the grocery store.
