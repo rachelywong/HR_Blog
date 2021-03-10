@@ -94,7 +94,7 @@ grocery_list = ["Milk", "Eggs", "Apples", "Bananas", "Cookies"]
 # No more swaps required, we have organized our list!
 ```
 
-![bubble_first.png](https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/bubble_first.png)
+![bubble_first.png](../assets/img/portfolio/project2/bubble_first.png)
 
 ![bubble_second.png](../assets/img/portfolio/project2/bubble_second.png)
 
