@@ -26,6 +26,8 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 
 ![insertion1.png](../assets/img/portfolio/project2/insertion1.png){:class="img-responsive"}
 
+<img src="{{site.baseurl}}/assets/img/portfolio/project2/insertion1.png">
+
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
 This type of shopper is using an Insertion Sort technique. Although this does get the job done, just reading how many times they walked back and forth exhausts me, not to mention how many potentially contaminated people they could have crossed paths with.
