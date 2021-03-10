@@ -5,12 +5,12 @@ subtitle: Ratch's Take on Sorting Algorithms
 #alt: Keep Exploring
 
 caption:
-  title: Sort Your life Out!
+  title: Sort Your Life Out!
   subtitle: Ratch's Take on Sorting Algorithms
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
-# Sort Your Life Out!
+## Sort Your Life Out!
 
 Recently with COVID-19, I’ve found myself looking for ways to minimize my time spent in close physical contact with other humans. I’ve circled in on the fact that the majority of physical interactions these days occur at grocery stores, and in an attempt to help flatten the curve, I’ve come up with a new technique to accelerate your time at the grocery store.
 
@@ -27,7 +27,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](portfolio/project1/insertion1.png)
+![insertion1.png](../portfolio/project1/insertion1.png)
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
