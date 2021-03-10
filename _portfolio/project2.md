@@ -1,12 +1,12 @@
 ---
 title: Sort Your Life Out!
-subtitle: Ratch's Take on Sorting Algorithms
+subtitle: A tutorial on how to be fast! zoom zooooooom
 #image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 #alt: Keep Exploring
 
 caption:
   title: Sort Your Life Out!
-  subtitle: Ratch's Take on Sorting Algorithms
+  subtitle: A tutorial on how to be fast! zoom zooooooom
   thumbnail: https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/thumbnail.png
 ---
 
@@ -24,7 +24,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](../assets/img/portfolio/project2/insertion1.png)
+![insertion1.png](project2/insertion1.png)
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
