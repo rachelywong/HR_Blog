@@ -7,13 +7,12 @@ subtitle: Ratch's Take on Sorting Algorithms
 caption:
   title: Sort Your Life Out!
   subtitle: Ratch's Take on Sorting Algorithms
-  thumbnail: https://github.com/rachelywong/HR_Blog/blob/rwblogs/assets/img/portfolio/project2/thumbnail.png
+  thumbnail: https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/thumbnail.png
 ---
 
 Recently with COVID-19, I’ve found myself looking for ways to minimize my time spent in close physical contact with other humans. I’ve circled in on the fact that the majority of physical interactions these days occur at grocery stores, and in an attempt to help flatten the curve, I’ve come up with a new technique to accelerate your time at the grocery store.
 
 Assuming you are not a barbarian who just walks into a grocery store with no plan, the key to efficient shopping comes from utilizing your grocery list to its maximum potential. Most often when curating a grocery list, people may write what comes to mind and then head to the store to get their goods, item by item.
-
 
 ```python
 # For example, if our list is something like this:
@@ -95,7 +94,7 @@ grocery_list = ["Milk", "Eggs", "Apples", "Bananas", "Cookies"]
 # No more swaps required, we have organized our list!
 ```
 
-![bubble_first.png](../assets/img/portfolio/project2/bubble_first.png)
+![bubble_first.png](https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/bubble_first.png)
 
 ![bubble_second.png](../assets/img/portfolio/project2/bubble_second.png)
 
