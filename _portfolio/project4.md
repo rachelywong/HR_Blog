@@ -1,13 +1,12 @@
 ---
-title: You may like... Recommender Systems
+title: You may also like... Recommender Systems
 subtitle: A look into collaborative filtering
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: You may like... Recommender Systems
+  title: You may also like... Recommender Systems
   subtitle: A look into collaborative filtering
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/project4/transparent.png
+  thumbnail: https://raw.githubusercontent.com/rachelywong/HR_Blog/master/assets/img/portfolio/project4/transparent.png
 ---
 ## You may also like... Recommender Systems
 
