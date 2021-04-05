@@ -9,7 +9,8 @@ caption:
   subtitle: Pilot Episode
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-## Prerequisites - check out the chapter on GitHub in our book for help!
+## Prerequisites 
+#### check out the chapter on GitHub in our book for help!
 Have a GitHub account (https://github.com/) 
 Understand repository basics
 Understand basic GitHub commands
