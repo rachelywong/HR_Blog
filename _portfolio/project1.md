@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: Welcome to H&R Blog! 
   #subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/convo.png
 ---
 
 ### How may we help you today?
