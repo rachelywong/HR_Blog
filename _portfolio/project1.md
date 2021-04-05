@@ -18,7 +18,7 @@ caption:
 - Description: Couldn’t write this intro so I’m taking over (Ratch)
 - Zodiac sign: Scorpio
 - Preferred karaoke song: Silence
-- Favourite Python package: [Pyemoodji](link)
+- Favourite Python package: [Pyemoodji](https://github.com/UBC-MDS/pyemoodji)
 - Favorite font: Comic Sans
 - Best talent: [Heidi - please answer]
 - Smells like: Ham
@@ -29,7 +29,7 @@ caption:
 - Birth name: Rachel Wong
 - Zodiac sign: Aquarius
 - Preferred karaoke song: “We Belong Together” by Mariah Carey
-- Favourite Python package: [Pyemoodji](link)
+- Favourite Python package: [Pyemoodji](https://github.com/UBC-MDS/pyemoodji)
 - Food group most prevalent within work cubicle: Condiments
 - Preferred room temperature: 18ºC
 - An app I could never live without: Tinder
