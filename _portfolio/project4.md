@@ -8,7 +8,6 @@ caption:
   subtitle: A look into collaborative filtering
   thumbnail: https://raw.githubusercontent.com/rachelywong/HR_Blog/master/assets/img/portfolio/project4/transparent.png
 ---
-## You may also like... Recommender Systems
 
 Back in the 1950s, there were three major TV networks, each with as many shows as you could count on one hand. Kellogs had three main cereal brands. Bored? You can choose from one of three video games - one of which was Tic-Tac-Toe. Fast forward to 2021 and the world has become a dizzying place of endless choices. Netflix has over 5,000 shows, the cereal shelf has no problem going on for two whole aisles and there were over 10,000 games released on Steam in 2020 alone. Consumer indecision is paralyzing the world and the only available treatment is: the recommender system - an all knowing helpful sidekick who lets us know what to watch, what to buy and who to date. 
 
