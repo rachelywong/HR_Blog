@@ -1,13 +1,13 @@
 ---
 title: Next Top Model
 subtitle: Three Everyday Analogies to Machine Learning Models
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+#image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
   title: Next Top Model
   subtitle: Three Everyday Analogies to Machine Learning Models
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/project3/model.png
 ---
 ## Three Everyday Analogies to Machine Learning Models
 
