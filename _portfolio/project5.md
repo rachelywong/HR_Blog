@@ -10,8 +10,8 @@ caption:
   thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/project5/etiquette.png
 ---
 ## Prerequisites 
-#### check out the chapter on GitHub in our book for help!
-- Have a [GitHub](https://github.com/)  account
+#### check out the chapter on GitHub in our [book](https://rachelywong.github.io/Hatch_and_Ratch/intro.html) for help!
+- Have a [GitHub](https://github.com/) account
 - Understand repository basics
 - Understand basic GitHub commands
 
