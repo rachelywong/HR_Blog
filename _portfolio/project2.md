@@ -7,7 +7,7 @@ subtitle: A tutorial on how to be fast! zoom zooooooom
 caption:
   title: Sort Your Life Out!
   subtitle: A tutorial on how to be fast! zoom zooooooom
-  thumbnail: https://github.com/rachelywong/HR_Blog/blob/3c04bd2decb94bb1f2c887e987e020761e7bf3e9/assets/img/portfolio/project2/thumbnail.png
+  thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/project2/thumbnail.png
 ---
 
 Recently with COVID-19, I’ve found myself looking for ways to minimize my time spent in close physical contact with other humans. I’ve circled in on the fact that the majority of physical interactions these days occur at grocery stores, and in an attempt to help flatten the curve, I’ve come up with a new technique to accelerate your time at the grocery store.
@@ -24,7 +24,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](../assets/img/portfolio/project2/insertion1.png){:class="img-responsive"}
+![insertion1.png](./assets/img/portfolio/project2/insertion1.png){:class="img-responsive"}
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
