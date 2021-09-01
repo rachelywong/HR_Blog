@@ -130,4 +130,4 @@ en: &DEFAULT_EN
           icon: "fab fa-instagram"
 
 
-  # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
+  {{ site.data.sitetext.ex.ex | markdownify | default: example }}
