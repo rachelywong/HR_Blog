@@ -48,7 +48,7 @@ timeline:
         desc: "Hatch and Ratch became official, with the pre-release of The Hatch and Ratch Story: Data Science Fundamentals"
         image: ./assets/img/timeline/3.jpeg
         alt: image alt text
-        align: default is left       
+        align: left       
       - title: "What now?"
         year: "Present"
         desc: "Book, blog, and podcast are underway. Stay tuned!"
