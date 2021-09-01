@@ -3,7 +3,7 @@ nav:
     section: services
 
   - title: "Blog"
-    section: portfolio
+    section: 
 
   - title: "About"
     section: timeline
