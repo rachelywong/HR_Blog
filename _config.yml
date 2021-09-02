@@ -15,11 +15,11 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://rachelywong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/hrblog" # the subpath of your site, e.g. /blog
+baseurl: "/HR_Blog" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
+title      : H&R Blog
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Hatch and Ratch Blog"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
