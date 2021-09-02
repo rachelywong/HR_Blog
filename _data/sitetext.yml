@@ -1,131 +1,133 @@
-header:
-    title: Welcome to H&R Blog!
-    text: Expert advice on everyday life and more.
-    button: More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
-
-content:
-    title: "Our Content"
-    text: "Rose are red, violets are blue, choose the right section, just for you."
-    section: services
-    list:
-      - title: "Blog"
-        desc: "3 minute reads for those on the go."
-        icon: fas fa-newspaper #find more at https://fontawesome.com/icons
-      - title: "Book"
-        desc: "A deeper dive on new found knowledge."
-        icon: fal fa-book-open 
-      - title: "Podcast"
-        desc: "A fireside chat from your pals, Hatch & Ratch."
-        icon: fas fa-microphone
-
-blog:
-    title: "Blog"
-    text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
-    section: portfolio
-    
-
-timeline:
-    title: "About" 
-    text: "Welcome to our world. Here at Hatch and Ratch we aim to take you on a ride through the cyberworld. With whimsy and eloquence, we offer only the most factual and interesting bits of information as you come along with us on our journey to becoming data science professionals."
-    section: timeline
-    events:
-      - title: "Girl Meets Girl"
-        year: "July 2020"
-        desc: "When the solar system settled into a strategic formation around our Earth, the template of stars we look up to arranged themselves in a manner that would change humankind. It was that night that Hatch and Ratch's stars aligned such that they would find themselves meeting over a virtual happy hour."
-        image: assets/img/timeline/1.jpeg
-        alt: 
-        align: left
-      - title: "Our Humble Beginnings"
-        year: "September 2020"
-        desc: "The conquest of becoming data wizards began. The team at Hatch and Ratch started their studies in the Master of Data Science program at the University of British Columbia."
-        image: assets/img/timeline/2.jpeg
-        alt: 
-        align: right
-      - title: "A Brand is Born"
-        year: "December 2020"
-        desc: "Hatch and Ratch became official, with the pre-release of The Hatch and Ratch Story: Data Science Fundamentals"
-        image: assets/img/timeline/3.jpeg
-        alt: image alt text
-        align: default is left       
-      - title: "What now?"
-        year: "Present"
-        desc: "Book, blog, and podcast are underway. Stay tuned!"
-        image: assets/img/timeline/4.jpeg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
-team:
-    title: "THE TEAM"
-    text: "The two slices that make up the Hatch and Ratch sandwich."
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Heidi Ye"
-        role: "Hatch"
-        image: assets/img/team/1.png
-        social:
-          - url: https://github.com/heidi-ye
-            icon: fab fa-github
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/heidiye/
-            icon: fab fa-linkedin-in
-      - name: ""
-        image: assets/img/team/selfie.JPG
-      - name: "Rachel Wong"
-        role: "Ratch"
-        image: assets/img/team/2.png
-        social:
-          - url: https://github.com/rachelywong
-            icon: fab fa-github
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/rachelywong/
-            icon: fab fa-linkedin-in
-          
-contact:
-    title: "Contact Us"
-    text: "Please leave a message with the moon and stars, or reach us by phone/email."
-    section: contact
-    
-footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+en: &DEFAULT_EN
+  header:
+      title: Welcome!
+      text: Expert advice on everyday life and more.
+      button: More
+      buttonlink: "#services" # "#{section}" or "URL/page link"
 
 
-# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
+  services:
+      title: "Our Content"
+      text: "Rose are red, violets are blue, choose the right section, just for you."
+      section: services
+      list:
+        - title: "Blog"
+          desc: "3 minute reads for those on the go."
+          icon: fas fa-newspaper #find more at https://fontawesome.com/icons
+        - title: "Book"
+          desc: "A deeper dive on new found knowledge."
+          icon: fas fa-book-open
+        - title: "Podcast"
+          desc: "A fireside chat from your pals, Hatch & Ratch."
+          icon: fas fa-microphone
+
+  portfolio:
+      title: "Blog"
+      text: "We share with you our own little treasure trove of diary entries, notes to our prior selves, helpful data science tidbits and more. Through these quick reads, we hope to inspire your thoughts, provoke some laughter and leave you feeling like you learned something new."
+      section: portfolio
+      
+
+  timeline:
+      title: "About" 
+      text: "Welcome to our world. Here at Hatch and Ratch we aim to take you on a ride through the cyberworld. With whimsy and eloquence, we offer only the most factual and interesting bits of information as you come along with us on our journey to becoming data science professionals."
+      section: timeline
+      events:
+        - title: "Girl Meets Girl"
+          year: "July 2020"
+          desc: "When the solar system settled into a strategic formation around our Earth, the template of stars we look up to arranged themselves in a manner that would change humankind. It was that night that Hatch and Ratch's stars aligned such that they would find themselves meeting over a virtual happy hour."
+          image: ./assets/img/timeline/1.jpeg
+          alt: 
+          align: left
+        - title: "Our Humble Beginnings"
+          year: "September 2020"
+          desc: "The conquest of becoming data wizards began. The team at Hatch and Ratch started their studies in the Master of Data Science program at the University of British Columbia."
+          image: ./assets/img/timeline/2.jpeg
+          alt: 
+          align: right
+        - title: "A Brand is Born"
+          year: "December 2020"
+          desc: "Hatch and Ratch became official, with the pre-release of The Hatch and Ratch Story: Data Science Fundamentals"
+          image: ./assets/img/timeline/3.jpeg
+          alt: image alt text
+          align: left       
+        - title: "What now?"
+          year: "Present"
+          desc: "Book, blog, and podcast are underway. Stay tuned!"
+          image: ./assets/img/timeline/4.jpeg
+          alt: 
+          align: right
+      end: "Be Part <br> of Our <br> Story!"
+
+  about:
+      title: "About Us"
+      text: "our story"
+      section: about
+
+  clients:
+      section: clients
+      max-height: 100px
+      horizontal-scrolling: "" #"yes/no"
+      list:
+        - title: "envato"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/envato.jpg
+        - title: "designmodo"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/designmodo.jpg
+        - title: "themeforest"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/themeforest.jpg
+        - title: "Creative Market"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/creative-market.jpg
+      
+  team:
+      title: "THE TEAM"
+      text: "The two slices that make up the Hatch and Ratch sandwich."
+      #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+      section: team
+      people:
+        - name: "Heidi Ye"
+          role: "Hatch"
+          image: assets/img/team/1.png
+          social:
+            - url: https://github.com/heidi-ye
+              icon: fab fa-github
+            #- url: https://facebook.com
+            #  icon: fab fa-facebook-f
+            - url: https://www.linkedin.com/in/heidiye/
+              icon: fab fa-linkedin-in
+        - name: ""
+          image: assets/img/team/selfie.JPG
+        - name: "Rachel Wong"
+          role: "Ratch"
+          image: assets/img/team/2.png
+          social:
+            - url: https://github.com/rachelywong
+              icon: fab fa-github
+            #- url: https://facebook.com
+            #  icon: fab fa-facebook-f
+            - url: https://www.linkedin.com/in/rachelywong/
+              icon: fab fa-linkedin-in
+            
+  contact:
+      title: "Contact Us"
+      text: "Please leave a message with the moon and stars, or reach us by phone/email."
+      section: contact
+      
+  footer:
+      legal: "Privacy Policy"
+      social:
+        - url: https://twitter.com
+          icon: "fab fa-twitter"  
+        - url: https://facebook.com
+          icon: "fab fa-facebook-f"
+        - url: https://linkedin.com
+          icon: "fab fa-linkedin-in"
+        - url: https://github.com/raviriley/agency-jekyll-theme
+          icon: "fab fa-github"
+        - url: https://instagram.com
+          icon: "fab fa-instagram"
+
+
+  #{{ site.data.sitetext.ex.ex | markdownify | default: example }}

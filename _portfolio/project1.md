@@ -1,18 +1,39 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Welcome to H&R Blog! 
+#subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Welcome to H&R Blog! 
+  #subtitle: Illustration
+  thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/convo.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+### How may we help you today?
+### Below is a description of our services:
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Name: Hatch
+- Description: Couldn’t write this intro so I’m taking over (Ratch)
+- Zodiac sign: Scorpio
+- Preferred karaoke song: Silence
+- Favourite Python package: [Pyemoodji](https://github.com/UBC-MDS/pyemoodji)
+- Favorite font: Comic Sans
+- Best talent: [Heidi - please answer]
+- Smells like: Ham
+- Best friend: Ratch
+
+{:.list-inline}
+- Name: Ratch
+- Birth name: Rachel Wong
+- Zodiac sign: Aquarius
+- Preferred karaoke song: “We Belong Together” by Mariah Carey
+- Favourite Python package: [Pyemoodji](https://github.com/UBC-MDS/pyemoodji)
+- Food group most prevalent within work cubicle: Condiments
+- Preferred room temperature: 18ºC
+- An app I could never live without: Tinder
+
+
+{:.list-inline}
+- Date: March 2021
+- Category: Introduction
 
