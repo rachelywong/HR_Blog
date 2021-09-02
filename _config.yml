@@ -12,7 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-#remote_theme: raviriley/agency-jekyll-theme
+# remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://rachelywong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/HR_blog" # the subpath of your site, e.g. /blog
@@ -35,3 +35,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+remote_theme: raviriley/agency-jekyll-theme
+layout: home
