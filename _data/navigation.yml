@@ -14,12 +14,12 @@
 nav:
   - title: "Services"
     section: services
-  # - title: "Portfolio"
-  #   section: portfolio
-  - title: "About"
-    section: about
+  - title: "Portfolio"
+    section: portfolio
   - title: "Timeline"
     section: timeline
+  - title: "About"
+    section: about
   - title: "Team"
     section: team
   - title: "Contact"

@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
+theme: jekyll-agency
 # remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://rachelywong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,8 +25,8 @@ author     : Your Name
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-analytics:
-  google: #Google Analytics tracking code here
+# analytics:
+#   google: #Google Analytics tracking code here
 
 collections:
   portfolio:
@@ -36,5 +36,5 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
-remote_theme: raviriley/agency-jekyll-theme
-layout: home
+# remote_theme: raviriley/agency-jekyll-theme
+# layout: home
