@@ -1,21 +1,18 @@
 ---
 title: Sort Your Life Out!
-subtitle: Ratch's Take on Sorting Algorithms
+subtitle: A tutorial on how to be fast! zoom zooooooom
 #image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 #alt: Keep Exploring
 
 caption:
   title: Sort Your Life Out!
-  subtitle: Ratch's Take on Sorting Algorithms
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  subtitle: A tutorial on how to be fast! zoom zooooooom
+  thumbnail: https://github.com/rachelywong/HR_Blog/raw/master/assets/img/portfolio/project2/thumbnail.png
 ---
-
-## Sort Your Life Out!
 
 Recently with COVID-19, I’ve found myself looking for ways to minimize my time spent in close physical contact with other humans. I’ve circled in on the fact that the majority of physical interactions these days occur at grocery stores, and in an attempt to help flatten the curve, I’ve come up with a new technique to accelerate your time at the grocery store.
 
 Assuming you are not a barbarian who just walks into a grocery store with no plan, the key to efficient shopping comes from utilizing your grocery list to its maximum potential. Most often when curating a grocery list, people may write what comes to mind and then head to the store to get their goods, item by item.
-
 
 ```python
 # For example, if our list is something like this:
@@ -27,7 +24,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](../portfolio/project1/insertion1.png)
+![insertion1.png](./assets/img/portfolio/project2/insertion1.png){:class="img-responsive"}
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
@@ -97,9 +94,9 @@ grocery_list = ["Milk", "Eggs", "Apples", "Bananas", "Cookies"]
 # No more swaps required, we have organized our list!
 ```
 
-![bubble_first.png](portfolio/project1/bubble_first.png)
+![bubble_first.png](./assets/img/portfolio/project2/bubble_first.png){:class="img-responsive"}
 
-![bubble_second.png](portfolio/project1/bubble_second.png)
+![bubble_second.png](./assets/img/portfolio/project2/bubble_second.png){:class="img-responsive"}
 
 Bubble Sort works great when we have a short list, but let’s say we’re preparing a larger feast. 
 
@@ -123,9 +120,9 @@ grocery_list = ["Milk", "Apples", "Cookies", "Eggs", "Bananas", "Chips", "Celery
 departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 ```
 
-![merge_divide.png](portfolio/project1/merge_divide.png)
+![merge_divide.png](./assets/img/portfolio/project2/merge_divide.png){:class="img-responsive"}
 
-![merge_merge.png](portfolio/project1/merge_merge.png)
+![merge_merge.png](./assets/img/portfolio/project2/merge_merge.png){:class="img-responsive"}
 
 Merge Sort is definitely faster when we have a longer list of items to sort! Merge Sort actually took fewer steps than if we had sorted each item individually (Insertion Sort) or if we had compared each pair of items repeatedly (Bubble Sort). This is because when Merge Sort divides the original list into two and repeats, we can easily explore subsets of the list instead of exploring the long list all in one. Finally, merging the parts back together is simplified since the sublists are already sorted.
 
