@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Roses are red, violets are blue, choose the right section, just for you."
     section: services
     list:
-      - title: "Blog"
+      - title: "[Blog](https://rachelywong.github.io/Hatch_and_Ratch/intro.html)"
         desc: "3 minute reads for those on the go."
         icon: fas fa-newspaper #find more at https://fontawesome.com/icons
       - title: "Book"
